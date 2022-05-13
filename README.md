@@ -2,6 +2,8 @@
 Script Mégaphone avec voix Française
 Veuillez supprimé interact-sound de votre serveur car le megaphone comprend le script.
 Les véhicules sont modifiable depuis le fichier config.
+
+Touche pour l'ouvrir: 1
 <hr>
 
 ![image](https://i.goopics.net/b4p33t.png) ![image](https://i.goopics.net/9ywuqs.png) ![image](https://i.goopics.net/a89q5o.png)
